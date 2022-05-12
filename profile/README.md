@@ -16,4 +16,4 @@ for member in members {
 # 스터디 목록
 |제목|참여 인원|링크|
 |:--:|:--:|:--:|
-|RxSwift 스터디|7명|[레포로 이동](https://github.com/ssaciOS/RxStudy)|
+|RxSwift 스터디|8명|[레포로 이동](https://github.com/ssaciOS/RxStudy)|
