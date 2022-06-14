@@ -3,7 +3,7 @@
 iOS 싹 1기들의 공부 동호회!
 
 ```swift
-let members: [String] = ["Anna", "ChaNoo97", "JD-man", "Keenkim", "kokojong", "SehunKang", "seungchan", "BAEKYUJEONG"]
+let members: [String] = ["AnnaBaeTofuMom", "ChaNoo97", "JD-man", "keenkim1202", "kokojong", "SehunKang", "seungchan2", "BAEKYUJEONG", "sseungmn", "urijan44", "Youngminah"]
 
 for member in members {
   print("하위 \(member)🌱!")
